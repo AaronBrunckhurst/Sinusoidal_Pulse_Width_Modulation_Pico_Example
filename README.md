@@ -1,10 +1,9 @@
 # Sinusoidal_Pulse_Width_Modulation_Pico_Example
-Example project for a pico which will generate
+Example project for a pico which will generate three phase sinwave with a 120 degree offset.
 
 # Building
 
 To get started run init.sh
-ex: 
 ``` bash
 bash init.sh
 ```
