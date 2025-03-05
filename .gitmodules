@@ -1,0 +1,6 @@
+[submodule "PicoSDKSetup"]
+	path = PicoSDKSetup
+	url = https://github.com/AaronBrunckhurst/PicoSDKSetup.git
+[submodule "PicoCommon"]
+	path = PicoCommon
+	url = https://github.com/AaronBrunckhurst/PicoCommon.git
